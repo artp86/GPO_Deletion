@@ -11,6 +11,6 @@ Ce script PowerShell permet de supprimer toutes les GPO (Group Policy Objects) d
 
 ## Comment l'utiliser
 
-1.  **Téléchargez le script** : Téléchargez le fichier `SupprimerGPO-ParPrefixe.ps1` depuis ce dépôt.
+1.  **Téléchargez le script** : Téléchargez le fichier `GPO-Prefix-Deletion.ps1` depuis ce dépôt.
 2.  **Ouvrez PowerShell en tant qu'administrateur** : Assurez-vous d'exécuter PowerShell avec des privilèges élevés.
 3.  **Exécutez le script** : Exécutez le script en fournissant le préfixe des GPO à supprimer.
